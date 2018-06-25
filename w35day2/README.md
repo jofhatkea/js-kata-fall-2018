@@ -1,5 +1,7 @@
 # JS-KATA
-## Week 22, Monday
+
+## Week 35, Tuesday
+
 ### Re-capping fetch
 
 Today you're gonna work with `fetch`, again. This time to fetch tweets
