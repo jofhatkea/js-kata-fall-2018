@@ -19,3 +19,7 @@ The only place you should add or change files, is in that folder
 The easy way to read the `.md` file is by going to your repo at github.com
 
 If you spot a spelling error or have something to add, please do a pull request :-)
+
+## Suggested solutions
+
+SUggested solutions for each kata will be posted at https://www.youtube.com/playlist?list=PLCx1FpZ4Dtb1cx9MFzRyHDtmiloBTGZy-
