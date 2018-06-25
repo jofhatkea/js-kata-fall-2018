@@ -22,4 +22,4 @@ If you spot a spelling error or have something to add, please do a pull request 
 
 ## Suggested solutions
 
-SUggested solutions for each kata will be posted at https://www.youtube.com/playlist?list=PLCx1FpZ4Dtb1cx9MFzRyHDtmiloBTGZy-
+Suggested solutions for each kata will be posted at https://www.youtube.com/playlist?list=PLCx1FpZ4Dtb1cx9MFzRyHDtmiloBTGZy- a few days after the due date.
