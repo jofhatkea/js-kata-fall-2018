@@ -1,6 +1,6 @@
 # JS-KATA
 
-## Week 35, Tuesday
+## Week 1, Day 2
 
 ### Re-capping fetch
 
@@ -8,7 +8,7 @@ Today you're gonna work with `fetch`, again. This time to fetch tweets
 
 Work with this endpoint:
 
-http://kea-alt-del.dk/twitter/api/
+https://kea-alt-del.dk/twitter/api/
 
 It takes two additional parameters
 
@@ -34,3 +34,10 @@ let clone = template.cloneNode(true);
 4.  Run through your data with `forEach`, if it's an array
 5.  For each element in the data, change the content in the clone (like `clone.querySelector(".header").textContent=data.header`)
 6.  Finally, `appendChild` to add the clone to the DOM
+
+### Optional
+
+Make it interactive by
+
+- allowing the user to enter / chose the hashtag
+- allowing the user to choose how many tweets are returned
