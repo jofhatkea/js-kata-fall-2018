@@ -30,3 +30,4 @@ Suggested solutions for some of the katas will be posted at https://www.youtube.
 2. Each kata should take no more than 30 minutes
 3. The katas should cover HTML, CSS, JS and/or SVG
 4. All katas should include a technical/coding perspective
+5. The katas should have an optional section, if you feel like doing more, or if you finish the regular part fast
