@@ -18,7 +18,7 @@ const animals = ["dog", "cat", "horse", "cat", "mouse", "dog", "cat", "cat", "do
 const catsAt = findAll( animals, "cat" );
 console.log( catsAt )
 ```
-And `catsAt` would be an array `[2,3,6,7]`
+And `catsAt` would be an array `[1,3,6,7]`
 
 
 ### Hints
