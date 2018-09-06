@@ -1,0 +1,32 @@
+#clock {
+    background-color: black;
+    color: red;
+    font-size: 90px;
+    display: flex;
+}
+#clock>span {
+    display: flex;
+}
+
+.digit {
+    background-image: url(images/7segment.jpg);
+    width: 80px;
+    height: 134px;
+}
+
+.digit0 {
+    background-position: 0px 0px;
+}
+
+.digit1 {
+    background-position: -100px 0px;
+}
+
+
+/* TODO: Make digits 2,3 and 4 */
+
+.digit5 {
+    background-position: 0px -135px;
+}
+
+/* TODO: Make digits 6,7, 8 and 9 */
