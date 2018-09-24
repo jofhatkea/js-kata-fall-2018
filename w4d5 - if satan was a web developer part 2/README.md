@@ -1,6 +1,6 @@
 # JS-KATA
 
-## Week 4, Day 54
+## Week 4, Day 5
 
 ### If satan was a web developer, part 2
 
