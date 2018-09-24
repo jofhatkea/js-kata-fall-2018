@@ -50,4 +50,4 @@ values["totalRolls"]; //as an array, but (it's not)
 
 ### Optional
 
-1. Use chart.js. It's not easy, and not impossible.
+1. Use [chart.js](https://www.chartjs.org/). It's not easy, and not impossible.
